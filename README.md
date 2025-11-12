@@ -8,3 +8,9 @@ Welcome to  QuantumForAll – your first step into the fascinating world of quan
 ## Quantum Approximate Optimization Algorithm
 - Qiskit Ecosystem : https://qiskit-community.github.io/qiskit-algorithms/tutorials/05_qaoa.html
       - This notebook demonstrates the implementation of the Quantum Approximate Optimization Algorithm (QAOA) for a graph partitioning problem (finding the maximum cut), and compares it to a solution using the brute-force approach.
+
+##  IBM Quanatum Platform 
+- Perform dynamic portfolio optimization with Global Data Quantum's Portfolio Optimizer : : https://quantum.cloud.ibm.com/docs/en/tutorials/global-data-quantum-optimizer#references
+- Sample-based quantum diagonalization of a chemistry Hamiltonian : https://quantum.cloud.ibm.com/docs/en/tutorials/sample-based-quantum-diagonalization
+
+  
