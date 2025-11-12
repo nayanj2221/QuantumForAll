@@ -18,4 +18,8 @@ Welcome to  QuantumForAll – your first step into the fascinating world of quan
 - Sample-based quantum diagonalization of a chemistry Hamiltonian : https://quantum.cloud.ibm.com/docs/en/tutorials/sample-based-quantum-diagonalization
 - qiskit-ibm-runtime API reference : https://quantum.cloud.ibm.com/docs/en/api/qiskit-ibm-runtime
 
+  ## Qiskit
+  -  qiskit-algorithms : https://github.com/qiskit-community/qiskit-algorithms
+  -  Qiskit Community : https://github.com/qiskit-community
+
   
