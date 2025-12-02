@@ -22,4 +22,8 @@ Welcome to  QuantumForAll – your first step into the fascinating world of quan
   -  qiskit-algorithms : https://github.com/qiskit-community/qiskit-algorithms
   -  Qiskit Community : https://github.com/qiskit-community
 
+## IQM Academy
+     - Learn the foundations of quantum computing
+Follow our curriculum and learn how a quantum computer works and how to work with a quantum computer.
+link: https://www.iqmacademy.com/
   
