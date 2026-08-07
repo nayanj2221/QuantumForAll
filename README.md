@@ -4,7 +4,7 @@ Welcome to  QuantumForAll – your first step into the fascinating world of quan
 ## IMP Links 
 - Quantum Lings : https://quantumlings.com/
 - Quantum programming: Working with IBM’S qiskit tool
-            : Doi: 10.58414/SCIENTIFICTEMPER.2023.14.1.11 
+            : Doi: [10.58414/SCIENTIFICTEMPER.2023.14.1.11 ](https://scientifictemper.com/index.php/tst/article/view/366)
      - new guided learning path for quantum computation with Qiskit product on Quantum Lings
  
 ## Quantum Approximate Optimization Algorithm
