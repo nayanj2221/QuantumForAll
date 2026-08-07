@@ -1,0 +1,48 @@
+# Starting For Here,, 
+
+18 day Maha-Quantum War 
+  ( Inspiratin for Mahabhart)
+
+Module 0 : 
+Our_Great_warrier_Intro:
+
+1.	Mathematical: 
+        a.	Basic Linear Algebra
+        b.	Complex Number and probability
+        c.	Classical Comutating Fundamental
+        d.	Basic Computer Science
+        2.	Intro to Quantum Concepts
+        a.	Quantum Mechanics
+
+Module 1 : 
+        1.	Qiskit 2.x overview (latest syntax changes)\
+        3. The block sphere
+        2.	Advanced Gates & Custom Unitaries:	Implement multi controlled gates, arbitrary rotations, custom gate definitions.
+                        a. Single Qubit : H, X.Y,Z, Rx, Ry, Rz, S, T, I
+                        b. Multi-Qubit Systems : CNOT, CCNOt, 
+                        c. Entanglement
+                        d.  Bell states 
+        3.	Advanced Qiskit Essentials
+        a.	Qiskit 2.x overview (latest syntax changes)
+        b.	Efficient circuit building (transpiler passes, parameterized circuits)
+        c.	Hands-on: Build + transpile a multi-qubit circuit
+        4.	Multi-Qubit Systems and Entanglement. Understand how to represent systems with multiple qubits. Dive deeper into the concept of entanglement and its importance in quantum computing.
+        5.	
+
+Module 2 : 
+        •	Day 2: Quantum Simulation with Qiskit Aer
+          o	Noise models, custom backends
+          o	Statevector vs. density matrix simulator
+          o	Hands-on: Simulate decoherence on Bell states
+        1.	cuit Optimization & Visualization
+          o	Gate fusion, depth reduction, CX count optimization
+          o	Hands-on: Optimize Grover’s circuit on 5-qubit backend
+
+Module 3
+        01. Deutsch Algorithm
+        02. Bernstein Vazirani Algorithm
+        03. Simon's Algorithm
+        04. Grover’s Search Algorithm
+        05. Shors Algorithm
+        06. Variatioal Quantum Algorithm
+        07. Quantum Approximation 
